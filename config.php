@@ -5,7 +5,7 @@
 $storeDataArr = array(
     // Store-Name => The Create URL from the Unify,
 
-    "vivashopworld" => "https://checkout.vivashopworld.com/api/modules/product-mapping/sync-store-products/QXVGbTVKKzA5RXZTRkxkcVhkaUhGdz09/create",
+    // "vivashopworld" => "https://checkout.vivashopworld.com/api/modules/product-mapping/sync-store-products/QXVGbTVKKzA5RXZTRkxkcVhkaUhGdz09/create",
     
     "dealdaystore" => "https://checkout.dealdaystore.com/api/modules/product-mapping/sync-store-products/NEdBZDNyeU02MzMvZHdOYU1IczRPdz09/create",
 
